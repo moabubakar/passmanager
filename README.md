@@ -1,2 +1,4 @@
-# passmanager
-Password manager application using Python, made as a practice project. 
+# aonio password manager
+> This password manager application was made using Python, and is a practice project NOT intended for actual use. 
+
+
